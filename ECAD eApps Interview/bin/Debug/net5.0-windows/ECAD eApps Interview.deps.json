@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ECAD eApps Interview/1.0.0": {
+        "runtime": {
+          "ECAD eApps Interview.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ECAD eApps Interview/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
