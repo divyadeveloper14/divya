@@ -1,0 +1,5 @@
+E:\divya\divya\ECAD eApps Interview\obj\Debug\net5.0-windows\ECAD eApps Interview.csproj.AssemblyReference.cache
+E:\divya\divya\ECAD eApps Interview\obj\Debug\net5.0-windows\Views\DiagramView.g.cs
+E:\divya\divya\ECAD eApps Interview\obj\Debug\net5.0-windows\App.g.cs
+E:\divya\divya\ECAD eApps Interview\obj\Debug\net5.0-windows\ECAD eApps Interview_MarkupCompile.cache
+E:\divya\divya\ECAD eApps Interview\obj\Debug\net5.0-windows\ECAD eApps Interview_MarkupCompile.lref

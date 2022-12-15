@@ -61,7 +61,7 @@ namespace ECAD_eApps_Interview {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/ECAD eApps Interview;V1.0.0.0;component/diagramview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/ECAD eApps Interview;component/diagramview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\DiagramView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -7,7 +7,7 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="DiagramView.xaml">
+    <Page Update="Views\DiagramView.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

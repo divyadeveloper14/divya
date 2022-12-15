@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\divya\\Second round - Practical\\ECAD eApps Interview\\ECAD eApps Interview.csproj": {}
+    "E:\\divya\\divya\\ECAD eApps Interview\\ECAD eApps Interview.csproj": {}
   },
   "projects": {
-    "E:\\divya\\Second round - Practical\\ECAD eApps Interview\\ECAD eApps Interview.csproj": {
+    "E:\\divya\\divya\\ECAD eApps Interview\\ECAD eApps Interview.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\divya\\Second round - Practical\\ECAD eApps Interview\\ECAD eApps Interview.csproj",
+        "projectUniqueName": "E:\\divya\\divya\\ECAD eApps Interview\\ECAD eApps Interview.csproj",
         "projectName": "ECAD eApps Interview",
-        "projectPath": "E:\\divya\\Second round - Practical\\ECAD eApps Interview\\ECAD eApps Interview.csproj",
+        "projectPath": "E:\\divya\\divya\\ECAD eApps Interview\\ECAD eApps Interview.csproj",
         "packagesPath": "C:\\Users\\dnarasim\\.nuget\\packages\\",
-        "outputPath": "E:\\divya\\Second round - Practical\\ECAD eApps Interview\\obj\\",
+        "outputPath": "E:\\divya\\divya\\ECAD eApps Interview\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dnarasim\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,24 @@
       "frameworks": {
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

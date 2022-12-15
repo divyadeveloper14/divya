@@ -1,0 +1,16 @@
+E:\divya\divya\DiagramConsole\bin\Debug\net5.0\DiagramConsole.exe
+E:\divya\divya\DiagramConsole\bin\Debug\net5.0\DiagramConsole.deps.json
+E:\divya\divya\DiagramConsole\bin\Debug\net5.0\DiagramConsole.runtimeconfig.json
+E:\divya\divya\DiagramConsole\bin\Debug\net5.0\DiagramConsole.runtimeconfig.dev.json
+E:\divya\divya\DiagramConsole\bin\Debug\net5.0\DiagramConsole.dll
+E:\divya\divya\DiagramConsole\bin\Debug\net5.0\ref\DiagramConsole.dll
+E:\divya\divya\DiagramConsole\bin\Debug\net5.0\DiagramConsole.pdb
+E:\divya\divya\DiagramConsole\obj\Debug\net5.0\DiagramConsole.csproj.AssemblyReference.cache
+E:\divya\divya\DiagramConsole\obj\Debug\net5.0\DiagramConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\divya\divya\DiagramConsole\obj\Debug\net5.0\DiagramConsole.AssemblyInfoInputs.cache
+E:\divya\divya\DiagramConsole\obj\Debug\net5.0\DiagramConsole.AssemblyInfo.cs
+E:\divya\divya\DiagramConsole\obj\Debug\net5.0\DiagramConsole.csproj.CoreCompileInputs.cache
+E:\divya\divya\DiagramConsole\obj\Debug\net5.0\DiagramConsole.dll
+E:\divya\divya\DiagramConsole\obj\Debug\net5.0\ref\DiagramConsole.dll
+E:\divya\divya\DiagramConsole\obj\Debug\net5.0\DiagramConsole.pdb
+E:\divya\divya\DiagramConsole\obj\Debug\net5.0\DiagramConsole.genruntimeconfig.cache
